@@ -1,5 +1,7 @@
 # Anisha
 
-I'm Anisha
+I'm Anisha!
 
-First year cybersecurity student
+Passionate first year cybersecurity student
+
+Currently exploring the world of information, security and ethical hacking
